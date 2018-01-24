@@ -9,17 +9,6 @@ What we expect to learn about you from this is:
 * How you think and solve problems
 * How you communicate through the code and/or documentation
 
-Fork this repository in your github account. Depending on your profile (see
-below), you have a different set of tasks to achieve.
-
-When it's done, send us the URL of your fork, we will do a review as quick as
+Fork this repository in your github account.When it's done, send us the URL of your fork, we will do a review as quick as
 possible and getting back to you for the next step.
-
-Profiles:
-
-* Junior *fullstack* developer, [your challenge](fullstack/junior)
-* Senior *fullstack* developer, [your challenge](fullstack/senior)
-* Backend developer, [your challenge](backend)
-* Frontend developer, [your challenge](frontend)
-* Ops, [your challenge](ops)
 
