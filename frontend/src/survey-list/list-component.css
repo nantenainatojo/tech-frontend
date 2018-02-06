@@ -1,0 +1,45 @@
+#containerList.container {
+    max-width: 540px;
+}
+
+#containerList.container .row{
+    background-color: whitesmoke;
+    min-height: 500px;
+}
+
+#containerList.container .col-sm-12:first-child h4{
+    text-align: center;
+    background-color: cornflowerblue;
+    height: 80px;
+    color: white;
+    padding-top: 25px;
+}
+
+#containerList #content{
+    background-color: white;
+    height:400px;
+}
+
+#containerList #listContent{
+    width: 90%;
+    margin: 30px auto;
+}
+
+#containerList #listContent a, #containerList #listContent a:hover,#containerList #listContent a:visited{
+    color: cornflowerblue;
+    text-decoration: inherit;
+    text-align: center;
+}
+
+#containerList input {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    padding: 10px 0;
+    border-bottom: solid 2px #1abc9c;
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 96%, #1abc9c 4%);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 96%, #1abc9c 4%);
+    background-repeat: no-repeat;
+    color: #0e6252;
+}

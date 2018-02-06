@@ -1,0 +1,27 @@
+#delails > .row{
+    margin-left: 0 !important;
+}
+
+#title{
+    background-color: #5C6BC0;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    width: calc(100% + 15px) !important;
+}
+
+#title a,#title a:hover,#title a:visited{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+#titleLabel{
+    margin-left: -10%;
+}
+
+#btnRetour{
+    float:left;
+    margin-left: 15px;
+    margin-top: -5px;
+    cursor: pointer;
+}
