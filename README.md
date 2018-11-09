@@ -1,5 +1,3 @@
-# Bocasay challenges
-
 If you're in the process, then by now we have got a better appreciation of who you are and now we would like to get a feel for the way you work.
 
 Please understand that this is not a test or an exam, here there are no right and wrong answers. This is just an opportunity for us to see how you solve problems. You also can get an understanding of the type of things we have to do in 
