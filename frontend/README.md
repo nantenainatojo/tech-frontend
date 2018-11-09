@@ -1,5 +1,3 @@
-# Bocasay frontend challenge
-
 ## Setup
 
 To avoid losing time, you will use a simple create-react-app bootstrap.
